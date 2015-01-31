@@ -10,7 +10,7 @@
 	
 function chaimp_admin()
 	{
-    include('chat_import_admin.php');
+    include('ChatProductDisplay.php');
 	}
  
 function chaimp_admin_actions()
